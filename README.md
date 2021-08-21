@@ -54,7 +54,7 @@ If you have Xammp and Qt creator then u can download code zip fileand check my p
 
 ## Expected Outcomes 💯
 
-After making this GUI as application we can  hel many shopkeepers and we can also make bond of trust between customer and shop keeper.
+After making this GUI as application we can  help many shopkeepers and we can also make bond of trust between customer and shop keeper.
 
 ## Future work 🤔
 
