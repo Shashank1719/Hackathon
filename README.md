@@ -1,14 +1,6 @@
-# //🚀ENTER YOUR PROJECT TITLE HERE🚀//
+# LocalShopKeepers : Innovation to Small Businesses
 
-```bash
-THIS BLOCK IS MEANT TO EXPLAIN THE FILE STRUCTURE ONLY REMOVE ME INITAL COMMIT!
-\
-├───docs : (optional) Here you can put your documentation.
-├───src  : Put your source code here.
-└───test : (optional) Your testing scripts goes here.
-```
-
-Some introduction to your solution/project.
+Some introduction to our project and it's solution.
 
 Team Members:
 
@@ -17,60 +9,63 @@ Team Members:
 
 ## Problem statement 🐾
 
-Give a short problem statement that describes the problem you want to solve.
+Innovation to Society.
+In this project we have made one small gui program which is used store data in data base and also used to fetch data from server.
 
 ## Tech Stack 📚
 
-Provide a list of tools and technologies used to build your project.
+We have used MySQL for database, qt for gui prompt and c++ language for program, MinGW for programming environment.
 
 ## Solution 💡
 
-Provide the walkthrough of your solution.
+All files regarding solution is in my below repository.
+https://github.com/Shashank1719/Hackathon/tree/Files
 
-- Provide necessary details to understand the solution.
-- Optional but charts are always nice to have.
+Have a look.
+
+GUI Files
+https://github.com/Shashank1719/Hackathon/blob/Files/localshopkeepers.pro
+https://github.com/Shashank1719/Hackathon/blob/Files/localshopkeepers.pro.user
+https://github.com/Shashank1719/Hackathon/blob/Files/mainwindow.ui
+
+C++ program
+https://github.com/Shashank1719/Hackathon/blob/Files/mainwindow.cpp
+https://github.com/Shashank1719/Hackathon/blob/Files/main.cpp
+
+Header Files
+https://github.com/Shashank1719/Hackathon/blob/Files/mainwindow.h
+
+Drive link to files
+https://drive.google.com/drive/folders/1XJvqjXBQ3rEBxJzPb0Va11RweTSkIPkm?usp=sharing
+
 
 ## Proof of work(Screenshots) 🎥
 
-Provide images or proof of work here. By proof of work we mean  you can provide:
+Video link
+https://youtu.be/MMN2hYY8etM
 
-- a link to a hosted website that shows the result of your solution.
-- a link to screen recording of your solution.
+Photo link
+https://drive.google.com/drive/folders/1Sv7jsplPblDSQQ-G31lsYboDipzU7hU8?usp=sharing
 
-## Other optional sections you want to write about 📝
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut bibendum lectus vel urna auctor elementum. Mauris maximus feugiat odio sit amet eleifend. Suspendisse a justo purus.
-
-## File structure 📂
-
-```bash
-   run `tree . /f`(for windows) command in the parent to print the file structure, and paste it here.
-   for linux, run `tree . ` and paste it here.
-
-   E.g.
-    /   .gitignore
-    │   README.md
-    │
-    ├───src
-    │       README.md
-    │
-    └───test
-            README.md
-
-```
 
 ## Installation & Usage 📦
 
-Provide steps to install or use your project.
+If you have Xammp and Qt creator then u can download code zip fileand check my project or else watch youtube video
 
 ## Expected Outcomes 💯
 
-Compare your current outcomes with what you expected it do.
+After making this GUI as application we can  help many shopkeepers and we can also make bond of trust between customer and shop keeper.
 
 ## Future work 🤔
 
-Things to improve upon in future & how you would scale it up.
+We beleive in continuos upgradation. So we are going to develope this as an Application may be using java/flutter/kotlin etc. and launch in market and also add and improve some functionality.
 
 ## Reference 📖
 
-List of references used in your solution.
+SMS website
+https://www.textlocal.in/?utm_source=google&utm_medium=cpc&utm_device=c&utm_term=company%20sms&utm_campaign=ppc-Business%20SMS&gclid=EAIaIQobChMI0pX4vKLB8gIVjoNLBR2LswAXEAAYASAAEgKfTvD_BwE
+
+Database link is not possible
+
+for GUI
+https://www.qt.io/download
