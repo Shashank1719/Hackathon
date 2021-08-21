@@ -50,7 +50,7 @@ https://drive.google.com/drive/folders/1Sv7jsplPblDSQQ-G31lsYboDipzU7hU8?usp=sha
 
 ## Installation & Usage 📦
 
-If you have Xammp and Qt creator then u can download code zip fileand check my project or else watch youtube video
+If you have Xammp and Qt creator then u can download code zip file and check my project or else watch youtube video
 
 ## Expected Outcomes 💯
 
