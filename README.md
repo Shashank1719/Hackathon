@@ -13,8 +13,7 @@ Some introduction to your solution/project.
 Team Members:
 
 - [20DCS116-Shashank Shah](https://github.com/Shashank1719)
-- [Member#2's Github](https://github.com/{team_member_username})
-- Not available
+- [Member#2's Github(Not available)](https://github.com/{team_member_username})
 
 ## Problem statement 🐾
 
